@@ -9,7 +9,7 @@
 2. 小时代
 3. 不能说的秘密
    
-学过的编程语言有 ```HTML``` ```CSS```  ```JavaScript``` 。我写一段看看
+学过的编程语言有 ```HTML``` ```CSS```  ```JavaScript``` 。我写一段看看吧
 ```css
 body{
     background:yellow;
